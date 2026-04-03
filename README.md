@@ -41,9 +41,8 @@ JSON
 Live Implementation
 Concrete implementation and testing (focused on "Zen") are currently active at the following URL:https://s2rz.com/
 
-
 ## License
-This project is licensed under the [CC BY-NC-SA 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 © 2026 ぼちぴ (Bochipi)
 Concrete implementation and testing (focused on "Zen") are currently active at the following URL: [Insert your Blog Name/URL here]
 
